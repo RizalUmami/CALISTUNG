@@ -25,6 +25,6 @@ Game edukatif calistung adalah sebuah permainan edukatif berbasis Augmented Real
 ### Info Scene 
 ![Image](https://github.com/user-attachments/assets/7bf86ff0-8ca2-4bec-bb5a-cbed1fa410fe)
 
-## Info Lengka
+## Info Lengkap
 Rizal Umami (081357744764)
 
