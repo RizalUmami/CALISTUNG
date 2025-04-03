@@ -2,7 +2,7 @@
 Merupakan aplikasi BACA TULIS HITUNG (CALISTUNG) salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen
 
 ## Editor
-- C Sharp (language)
+- C Sharp (Language)
 - Unity
 - Visual Studio Code
 - Blender 
